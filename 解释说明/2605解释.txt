@@ -18,5 +18,4 @@ hello凯总，5月PP预算除27500正常维护预算外另有三项：
 供应商/价格依据：Flambeu；Awaiting updated quote from supplier，预算价按上次报价（£45.60/unit excl VAT）并因 Gulf 全球问题导致 resin price increases 增加25%估算。
 
 整体看：
-按既往申请邮件口径（Exclude VAT / Unit price列），5月需审批 Monthly Opex Service Budget 为 £71,818；Recurring Monthly Charges 为 £18,713（For reviewing），合计 £90,531。
-但5月Excel Summary当前Monthly列为 £86,182、总计 £104,895；核对公式发现5月Summary使用 Total cost 列（含VAT）汇总，2-4月申请邮件口径使用 Unit price 列（Exclude VAT）。建议邮件按既往口径使用 £71,818；如需按Excel Summary提交，请先确认是否调整Excel汇总公式/口径。
+按统一 Exclude VAT / Unit price 口径，5月需审批 Monthly Opex Service Budget 为 £71,818；Recurring Monthly Charges 为 £18,713（For reviewing），合计 £90,531。已同步核对并调整5月Excel Summary口径，确保与申请邮件一致。
