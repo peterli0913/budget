@@ -1,0 +1,22 @@
+hello凯总，5月PP预算除27500正常维护预算外另有三项：
+一，CTC IH Upgrades
+金额：£3,268；
+目的/范围：更换若干 CTC（Contained Transfer Couplings）charging/discharging valves 的 seal sets，确保计划于2026年6月进行 IH testing 时可达到合适的 containment standard
+详细原因：PP内若干 unit ops 的 IH testing 仍未完成。为证明关键 unit ops（charging/discharging）能够达到 default OEB4 standard of isolation，需要更换一系列 CTC valve soft seals。
+供应商/价格依据：Chargepoint；As per quote
+
+二，Scrubber c/w pump motor
+金额：£7,000；
+目的/范围：购买 scrubber cooling water pump 的替换 pump motor
+详细原因：现有 scrubber cooling water pump motor 已失效，需要更换。
+供应商/价格依据：TBC；Quoted
+
+三，CTC Kegs
+金额：£34,050；
+目的/范围：采购 PP 内所有 charging and discharging operations 使用的 CTC Kegs MOQ order（600 units）
+详细原因：CTC 库存有限。为保证供应，需要向供应商下单其下一轮 manufacturing run（每年仅3/4次），预计可确保在12-16周内收到库存；MOQ 为600 units，lead time unclear。按当前使用率，600 units 预计可使用6-12个月。
+供应商/价格依据：Flambeu；Awaiting updated quote from supplier，预算价按上次报价（£45.60/unit excl VAT）并因 Gulf 全球问题导致 resin price increases 增加25%估算。
+
+整体看：
+按既往申请邮件口径（Exclude VAT / Unit price列），5月需审批 Monthly Opex Service Budget 为 £71,818；Recurring Monthly Charges 为 £18,713（For reviewing），合计 £90,531。
+但5月Excel Summary当前Monthly列为 £86,182、总计 £104,895；核对公式发现5月Summary使用 Total cost 列（含VAT）汇总，2-4月申请邮件口径使用 Unit price 列（Exclude VAT）。建议邮件按既往口径使用 £71,818；如需按Excel Summary提交，请先确认是否调整Excel汇总公式/口径。
