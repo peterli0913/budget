@@ -1,0 +1,84 @@
+Subject: 2026 June PP Opex Service Monthly Budget Application
+
+To: Kai Liu <liukai@asymchem.com.cn>; Guoxi Zheng <zhengguoxi@asymchem.com.cn>; Scott Anderson <scottanderson@asymchem.com>; Barry Goligher <barrygoligher@asymchem.com>; Stephen Adams <stephenadams@asymchem.com>; James Long <jameslong@asymchem.com>; Donna Medley <donnamedley@asymchem.com>
+Cc: Ting Zhang <zhangting@asymchem.com.cn>; Ning Tang <tangning@asymchem.com.cn>; Daoxing Yang <yangdaoxing@asymchem.com.cn>; Mo Huang <huangmo@asymchem.com.cn>; Yufeng Zha <zhayufeng@asymchem.com.cn>; Chang Gao12431 <gaochang12431@asymchem.com.cn>; Huiyan Yang <yanghuiyan@asymchem.com.cn>; Menglei Li0070 <limenglei0070@asymchem.com.cn>
+
+Dear VP Kai and Scott,
+Please find attached the PP Opex Service monthly budget collected for 2026 June. I kindly request your review and approval of the June monthly budget. I also attached the 2026 June amount of submitted contracts for your review only. Thank you.
+
+   2026 June Monthly Budget Application Categories and Total Amount:
+Monthly Opex Service Budget (Exclude VAT)
+(Need approval)
+53,872.76
+Capex (Exclude VAT)
+(Need approval)
+16,583.00
+Recurring Monthly Charges
+(For reviewing)
+18,713.00
+Total
+89,168.76
+
+   Opex Service and Capex Detail
+June Monthly Opex Service and Capex
+Opex Service (Exclude VAT)
+53,872.76
+Repair and Maintenance contract/ad-hoc
+Estimating
+27,500.00
+As yet unknown parts as a result of failure/need to replace; and building fabric upkeep and repairs.
+HSE Safety Survey
+Estimating
+1,072.00
+Access to UK HSE Safety Climate Tool to run agreed Climate Safety Survey for Asymchem Sandwich
+Emissions monitoring flame arrestors
+Estimating
+2,500.00
+Replacement of emissions monitoring device (Protea) flame arrestors.
+Emissions monitoring equipment sample lines
+Estimating
+2,500.00
+Replacement of emissions monitoring equipment (Protea) sample lines.
+DeltaV remote access firewall config.
+Estimating
+10,600.00
+FireWall configuration support for DeltaV remote access for operations users
+D365 'team member' licenses
+Estimating
+1,000.00
+D365 system licensing updates to ensure sufficient number of licenses to cover all users on system
+D365 system updates/config changes
+Estimating
+3,100.00
+During client audit found that 'Admin' level access can delete audit trail entries on the system. External support needed to implement system config changes to remove this.
+CD01/02 Curtains
+Estimating
+3,100.76
+Replacement protective curtains for chemical dosing stations CD01/CD02. Current curtains are beyond safe use and require repair to provide the designed protective enclosure to prevent acid/caustic splashes/spray in the event if system failure.
+Naproxen shipping from Tianjin to SW
+Estimating
+2,500.00
+Naproxen required for IH testing in SW to be shipped from Asymchem TJ to SW
+Capex (Exclude VAT)
+16,583.00
+Replacement EF07 Extract Fan Unit
+Estimating
+16,583.00
+Replacement EF07 Toilet & Change Areas Extract Fan Unit
+
+   Recurring Monthly Charges Detail
+	Housekeeping service
+4,190.00
+Facility Service Charge
+11,523.00
+Purified Water Testing
+700.00
+Dawsons API Store
+1,300.00
+Controlled drawings update
+1,000.00
+Total
+18,713.00
+
+Thanks,
+Peter

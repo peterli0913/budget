@@ -52,4 +52,4 @@ hello凯总，6月PP预算除27500正常维护预算外另有九项（Opex八项
 供应商/价格依据：Forefront；按报价 FQ-2219。Forefront 熟悉 B902 AHU 系统，报价包括拆除现有设备、供应、安装和调试新的 AHU 及控制面板。
 
 整体看：
-按统一 Exclude VAT / Unit price 口径，6月需审批月度 Opex 预算为 £63,872.76；经常性月度费用为 £18,713（仅供审核）；Capex 预算为 £16,583。K-Opex Service 合计 £82,585.76，含 Capex 后整体预算合计 £99,168.76。已同步核对并调整6月Excel Summary口径，确保按 Exclude VAT 汇总；同时补齐 DeltaV 远程访问防火墙配置项的月度类型，避免 Summary 漏计。
+按统一 Exclude VAT / Unit price 口径，6月需审批月度 Opex 预算为 £53,872.76；经常性月度费用为 £18,713（仅供审核）；Capex 预算为 £16,583。K-Opex Service 合计 £72,585.76，含 Capex 后整体预算合计 £89,168.76。已同步核对并调整6月Excel Summary口径，确保按 Exclude VAT 汇总；同时补齐 DeltaV 远程访问防火墙配置项的月度类型，避免 Summary 漏计。
