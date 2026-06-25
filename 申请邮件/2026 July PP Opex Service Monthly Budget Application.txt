@@ -1,0 +1,77 @@
+Subject: 2026 July PP Opex Service Monthly Budget Application
+
+To: Kai Liu <liukai@asymchem.com.cn>; Guoxi Zheng <zhengguoxi@asymchem.com.cn>; Scott Anderson <scottanderson@asymchem.com>; Barry Goligher <barrygoligher@asymchem.com>; Stephen Adams <stephenadams@asymchem.com>; James Long <jameslong@asymchem.com>; Donna Medley <donnamedley@asymchem.com>
+Cc: Ting Zhang <zhangting@asymchem.com.cn>; Ning Tang <tangning@asymchem.com.cn>; Daoxing Yang <yangdaoxing@asymchem.com.cn>; Mo Huang <huangmo@asymchem.com.cn>; Yufeng Zha <zhayufeng@asymchem.com.cn>; Chang Gao12431 <gaochang12431@asymchem.com.cn>; Huiyan Yang <yanghuiyan@asymchem.com.cn>; Menglei Li0070 <limenglei0070@asymchem.com.cn>
+
+Dear VP Kai and Scott,
+Please find attached the PP Opex Service monthly budget collected for 2026 July. I kindly request your review and approval of the July monthly budget. I also attached the 2026 July amount of submitted contracts for your review only. Thank you.
+
+   2026 July Monthly Budget Application Categories and Total Amount:
+Monthly Opex Service Budget (Exclude VAT)
+(Need approval)
+106,912.85
+Recurring Monthly Charges
+(For reviewing)
+19,273.00
+Total
+126,185.85
+
+   Opex Service and Capex Detail
+July Monthly Opex Service and Capex
+Opex Service (Exclude VAT)
+106,912.85
+Repair and Maintenance contract/ad-hoc
+Estimating
+27,500.00
+As yet unknown parts as a result of failure/need to replace; and building fabric upkeep and repairs.
+GP1 1st & 2nd floor painting walls and stairs
+Estimating
+11,062.43
+GP1 1st & 2nd floor painting walls and stairs - sand back all existing paintwork that is starting to flake and repaint in white to bring to standard of FG1 module
+ESD flooring GP1 1st & 2nd Floor, GP2 2nd floor
+Estimating
+31,532.22
+Replacement of ESD floors in modules GP1 (1st & 2nd floor) & GP2 (2nd floor)
+Groth RV overhaul
+Estimating
+10,706.00
+Routine overhaul and statutory testing of Groth RVs (relief valves) from 11 units
+ATEX motor overhauls
+Estimating
+12,800.00
+Routine overhaul of ATEX rated motors for PP pumps
+Racking Inspection
+Estimating
+1,000.00
+Annual SEMA racking inspection
+Rubix Kiosk Set up charges
+Estimating
+6,250.00
+Rubix consultant to set up remaining approx 50% of engineering stores items into Kiosk stores inventory management solution
+DeDietrich Engineer Fitting parts and training for maintenance engineers
+Estimating
+4,062.20
+DeDeitrich engineer to attend SW site to install replacement glassware parts on 15L reactor unit in GMP lab plus perform training with certification for maintenance engineering team in SW to enable them to support operation of equipment
+Bartender compatible printer and software for label printing
+Estimating
+2,000.00
+To support improved product labelling - required for potential commercial manufacture - a label printer compatible with the larger labels required along with bartender software to create the bespoke labels
+Capex
+No separate Capex items in 2026 July Capex Budget.
+
+   Recurring Monthly Charges Detail
+	Housekeeping service
+4,190.00
+Facility Service Charge
+11,523.00
+Purified Water Testing
+1,260.00
+Dawsons API Store
+1,300.00
+Controlled drawings update
+1,000.00
+Total
+19,273.00
+
+Thanks,
+Peter
