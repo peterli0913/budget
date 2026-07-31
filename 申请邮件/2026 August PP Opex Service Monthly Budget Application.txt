@@ -1,0 +1,61 @@
+Subject: 2026 August PP Opex Service Monthly Budget Application
+
+To: Kai Liu <liukai@asymchem.com.cn>; Guoxi Zheng <zhengguoxi@asymchem.com.cn>; Scott Anderson <scottanderson@asymchem.com>; Barry Goligher <barrygoligher@asymchem.com>; Stephen Adams <stephenadams@asymchem.com>; James Long <jameslong@asymchem.com>; Donna Medley <donnamedley@asymchem.com>
+Cc: Ting Zhang <zhangting@asymchem.com.cn>; Ning Tang <tangning@asymchem.com.cn>; Daoxing Yang <yangdaoxing@asymchem.com.cn>; Mo Huang <huangmo@asymchem.com.cn>; Yufeng Zha <zhayufeng@asymchem.com.cn>; Chang Gao12431 <gaochang12431@asymchem.com.cn>; Huiyan Yang <yanghuiyan@asymchem.com.cn>; Menglei Li0070 <limenglei0070@asymchem.com.cn>
+
+Dear VP Kai and Scott,
+Please find attached the PP Opex Service monthly budget collected for 2026 August. I kindly request your review and approval of the August monthly budget. I also attached the 2026 August amount of submitted contracts for your review only. Thank you.
+
+   2026 August Monthly Budget Application Categories and Total Amount:
+Monthly Opex Service Budget (Exclude VAT)
+(Need approval)
+44,500.00
+Recurring Monthly Charges
+(For reviewing)
+19,273.00
+Total
+63,773.00
+
+   Opex Service and Capex Detail
+August Monthly Opex Service and Capex
+Opex Service (Exclude VAT)
+44,500.00
+Repair and Maintenance contract/ad-hoc
+Estimating
+27,500.00
+As yet unknown parts as a result of failure/need to replace; and building fabric upkeep and repairs.
+Data migration into Safety Qube
+Estimating
+5,400.00
+Time from Safety Qube to prepare and migrate our data from Mirashare into the Safety Qube tool that will be replacing Mirashare
+LOTO Isolation training
+Estimating
+3,600.00
+Lock out tag out training for maintenance and operations staff to support plant SSOW procedures and to ensure adequate numbers of trained personnel to implement systems
+Evaluation of PP potential 'Class D' operation of one or more isolation suite
+Estimating
+5,000.00
+External engineering co. high level evaluation of requirements and any mods/upgrades needed for implementing Class D operation of isolation suite(s)
+Vent sizing training course
+Estimating
+3,000.00
+As part of routine Process Safety evaluations (particularly for more complex processes incl 2 phase flow scenarios) Jo Springett requires to complete the Vent sizing training provided by the accredited provider TUV
+Capex
+No new equipment or software purchases in 2026 August Opex Budget.
+
+   Recurring Monthly Charges Detail
+	Housekeeping service
+4,190.00
+Facility Service Charge
+11,523.00
+Purified Water Testing
+1,260.00
+Dawsons API Store
+1,300.00
+Controlled drawings update
+1,000.00
+Total
+19,273.00
+
+Thanks,
+Peter
