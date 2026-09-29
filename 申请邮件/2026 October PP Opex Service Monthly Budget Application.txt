@@ -1,0 +1,53 @@
+Subject: 2026 October PP Opex Service Monthly Budget Application
+
+To: Kai Liu <liukai@asymchem.com.cn>; Guoxi Zheng <zhengguoxi@asymchem.com.cn>; Scott Anderson <scottanderson@asymchem.com>; Barry Goligher <barrygoligher@asymchem.com>; Stephen Adams <stephenadams@asymchem.com>; James Long <jameslong@asymchem.com>; Donna Medley <donnamedley@asymchem.com>
+Cc: Ting Zhang <zhangting@asymchem.com.cn>; Ning Tang <tangning@asymchem.com.cn>; Daoxing Yang <yangdaoxing@asymchem.com.cn>; Mo Huang <huangmo@asymchem.com.cn>; Yufeng Zha <zhayufeng@asymchem.com.cn>; Chang Gao12431 <gaochang12431@asymchem.com.cn>; Huiyan Yang <yanghuiyan@asymchem.com.cn>; Menglei Li0070 <limenglei0070@asymchem.com.cn>
+
+Dear VP Kai and Scott,
+Please find attached the PP Opex Service monthly budget collected for 2026 October. I kindly request your review and approval of the October monthly budget. I also attached the 2026 October amount of submitted contracts for your review only. Thank you.
+
+   2026 October Monthly Budget Application Categories and Total Amount:
+Monthly Opex Service Budget (Exclude VAT)
+(Need approval)
+65,684.00
+Recurring Monthly Charges
+(For reviewing)
+19,273.00
+Total
+84,957.00
+
+   Opex Service and Capex Detail
+October Monthly Opex Service and Capex
+Opex Service (Exclude VAT)
+65,684.00
+Repair and Maintenance contract/ad-hoc
+Estimating
+27,500.00
+As yet unknown parts as a result of failure/need to replace; and building fabric upkeep and repairs.
+R22 Cryogenic Reinstatement
+Estimating
+25,456.00
+Get the cryogenic capability reestablished on R22
+DeltaV version 16 Pre-Upgrade work
+Estimating
+12,728.00
+DeltaV version 16 Pre-Upgrade work
+Capex
+287 AHU Upgrade is listed with no amount, so no Capex amount is included for approval.
+
+   Recurring Monthly Charges Detail
+	Housekeeping service
+4,190.00
+Facility Service Charge
+11,523.00
+Purified Water Testing
+1,260.00
+Dawsons API Store
+1,300.00
+Controlled drawings update
+1,000.00
+Total
+19,273.00
+
+Thanks,
+Peter

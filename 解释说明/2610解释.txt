@@ -1,0 +1,21 @@
+hello凯总，10月PP预算除27500正常维护预算外另有两项（Capex列了名称但无金额）：
+一，R22低温能力恢复（R22 Cryogenic Reinstatement）
+金额：£25,456；
+目的/范围：恢复 R22 的低温（cryogenic）能力。
+详细原因：表内仅写明要恢复 R22 的 cryogenic capability。单价栏为 £86/hr，金额栏为 £25,456。25,456 ÷ 86 = 296 小时，正好整除，因此这笔按不含 VAT 的工时金额计入，不再按 20% 倒扣。
+供应商/价格依据：Rockline；备注为分 3 个月发生（Spread over 3 months）；询问人 Simon Griffith。Name 列误填成 Building Fabric/Plumbing，说明以 PR Title 和 Description 为准。
+
+二，DeltaV V16 升级前工作（Pre-Upgrade work）
+金额：£12,728；
+目的/范围：开展 DeltaV version 16 升级前工作。
+详细原因：表内说明为 DeltaV V16 pre-upgrade work。单价栏同样为 £86/hr，金额栏为 £12,728。12,728 ÷ 86 = 148 小时，正好整除，按不含 VAT 的工时金额计入。
+供应商/价格依据：Rockline；备注为分 3 个月发生（Spread over 3 months）；询问人 Simon Griffith。Name 列同样误填成 Building Fabric/Plumbing。
+
+整体看：
+按统一 Exclude VAT 口径，10月需审批月度 Opex 预算为 £65,684；经常性月度费用为 £19,273（仅供审核）；Capex 预算为 £0。整体预算合计 £84,957。
+已逐项复核：正常维护 £27,500（设备维修 £20,000 + 建筑维护 £7,500）+ 两项新增 £38,184（25,456 + 12,728）= 月度 Opex £65,684；经常性费用 4,190 + 11,523 + 1,260 + 1,300 + 1,000 = £19,273；合计 £84,957。
+另有几处需要注意：
+1. 原 Summary 整列使用 Total cost。正常维护和经常性费用的 Total cost 是含 VAT 金额，但这两项 Rockline 的 Total cost 是 £86 × 整数小时，本身就是不含 VAT 金额。已把 Summary 调整为：单价是数字时按数量 × 单价，单价是文字时采用金额栏。
+2. 备注写的是 Spread over 3 months，但表内把 £25,456 和 £12,728 全额放在 10 月 Monthly 行。本次按表内全额列入，没有自行拆成三分之一。若这两笔是三个月总价、本月只应列当月份额，需要 UK 再确认。
+3. 前两项正常维护的预算编号仍写为 SW-NCH-M-202608，与 10 月不一致，需核实。
+4. Capex 表有一项 287 AHU Upgrade，交付对象为 Steve Adams，资产号为 tbc，但数量、单价和金额都是空的，因此不计入本次审批金额。
