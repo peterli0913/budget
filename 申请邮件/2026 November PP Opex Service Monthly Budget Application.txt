@@ -9,7 +9,7 @@ Please find attached the PP Opex Service monthly budget collected for 2026 Novem
    2026 November Monthly Budget Application Categories and Total Amount:
 Monthly Opex Service Budget (Exclude VAT)
 (Need approval)
-68,665.29
+68,835.29
 Capex (Exclude VAT)
 (Need approval)
 4,507.00
@@ -17,17 +17,17 @@ Recurring Monthly Charges
 (For reviewing)
 49,273.00
 Total
-122,445.29
+122,615.29
 EcoVadis submission costs are USD 1,419.00 (Exclude VAT) and are not included in the GBP total above.
 
    Opex Service and Capex Detail
 November Monthly Opex Service and Capex
 Opex Service (Exclude VAT)
-68,665.29
+68,835.29
 Acid Dosing system pumps - CD02 heavily corroded
 Estimating
-16,153.80
-CD02 heavily corroded. Quantity 2 at unit price 8,076.90. Quote received from Liquid Measuring Instruments.
+16,323.80
+CD02 heavily corroded. Quantity 2 at unit price 8,076.90 plus freight 170.00. Quote received from Liquid Measuring Instruments.
 Acid Dosing system pumps - Pipe Work and Valves
 Estimating
 15,722.93
