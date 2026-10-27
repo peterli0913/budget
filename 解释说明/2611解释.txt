@@ -1,147 +1,66 @@
-hello凯总，以下是11月PP预算（文件 PP-2611 Monthly Budget Application Form.xlsx）按 Exclude VAT 口径的逐项核对。金额取 Net amount：有数量时按数量 × 单价；运费只有已经计入 Net amount 时才加入。英镑和美元分开加总。
+hello凯总，11月PP预算有一处和之前不同：以往放在月度 Opex 里审批的正常维护 £27,500（设备维修 £20,000 + 建筑维护 £7,500），本月改列在经常性费用里，为设备维修 £20,000 + 建筑维护 £5,000（Shepway）+ £5,000（Rubix）。月度需审批的是下面这些新增项；本表同时有 EHS 项目，Capex 有一项湿度探头。
 
-本表 Summary 上同时有 Pilot Plant 各成本中心和 EHS 行。月度审批项在 Monthly 部分。设备维修和建筑维护在 Recurring 部分。
-
-一，酸加药系统（Acid Dosing system）三项
-成本中心均为 Maintenance。Name 和 PR Title 都写成 Building Fabric/Plumbing，下面按 Description 和原因栏区分。预算编号均为 SW-NCH-M-202608-Operation。
-
-1. 泵，原因 CD02 heavily corroded
-金额：£16,153.80（数量 2 × 单价 £8,076.90）
-目的/范围：酸加药系统泵。
-详细原因：CD02 腐蚀严重。
-供应商/价格依据：Liquid Measuring Instruments；Quote received。需求日期 2026-10-30。
-运费栏另有 £170。Net amount 公式是数量 × 单价，税额和含税合计都按 £16,153.80 计算，这 £170 没有进入 Net amount。本次按 Net amount £16,153.80 列入。若运费应计入，不含税金额为 £16,323.80。需核实。
-
-2. 管道和阀门，原因 Pipe Work and Valves
-金额：£15,722.93（数量 1 × 单价 £15,722.93）
-目的/范围：酸加药系统的管道和阀门。
-供应商/价格依据：Corrosion Resistant Products；Quote received。需求日期 2026-10-30。
-
-3. 撬装更换，原因栏原文 Skid replacment
-金额：£1,000.00（数量 1 × 单价 £1,000）
-目的/范围：酸加药系统撬装更换。
-供应商/价格依据：供应商未填；Comment for price 为 Estimate。需求日期 2026-10-30。
-
-三项小计：16,153.80 + 15,722.93 + 1,000.00 = £32,876.73
+一，酸加药系统（Acid Dosing system）三项，合计 £32,876.73
+金额：泵 £16,153.80（2 × £8,076.90）；管道和阀门 £15,722.93；撬装更换 £1,000；
+目的/范围：更换酸加药系统的泵、管道阀门和撬装。
+详细原因：CD02 腐蚀严重，需要换泵，并配套管道阀门；撬装更换按估算列入。泵的运费栏有 £170，Net amount 没有计入，本次按 £16,153.80。若运费应计入，则为 £16,323.80，需核实。
+供应商/价格依据：泵为 Liquid Measuring Instruments，管道阀门为 Corrosion Resistant Products，均已报价；撬装为 Estimate，供应商未填。Name 列都写成 Building Fabric/Plumbing。
 
 二，B287 天沟（B287 Guttering）
-金额：£7,580.00
+金额：£7,580；
 目的/范围：B287 天沟。
-详细原因：原因栏原文为 “Quote received from Metal Workshop. Looking for other quotes for this work.” 现有报价来自 Metal Workshop，同时仍在寻找其他报价。
-供应商/价格依据：Metal Workshop；询问人 Steve Adams。预算编号为空。需求日期 2026-10-30。
-本次按表内现有 Net amount £7,580.00 列入。若改用更低报价，金额需要再改。
+详细原因：已收到 Metal Workshop 报价，表内同时写明仍在寻找其他报价。本次按现有 £7,580 列入。
+供应商/价格依据：Metal Workshop；询问人 Steve Adams。
 
 三，Protea 服务合同（Protea Service Contract）
-金额：£7,342.56
-成本中心：Operation。科目文字为 Expenses - EHS cost - Other。
+金额：£7,342.56；
 目的/范围：Protea 服务合同及故障排查服务。
-详细原因：原因栏原文为 “Service contract is up from renewal for replacement equipment”，即服务合同到期，为替换设备续约。备注 Annual payment。
-供应商/价格依据：Protea；询问人 Clare Crook。数量栏为空，Net amount 等于单价 £7,342.56。需求日期 2026-10-30。
+详细原因：服务合同到期，为替换设备续约。年度付款。
+供应商/价格依据：Protea；询问人 Clare Crook。
 
-四，EcoVadis 提交费用（Ecovadis submission costs）
-金额：USD 1,419.00
-成本中心：EHS。币种：USD。
-目的/范围：EcoVadis 提交费用，Basic level access。
-供应商/价格依据：EcoVadis；询问人 Clare Crook。数量栏为空，Net amount 等于单价。
-这笔按美元单独列出，英镑合计不加这笔，也不做汇率换算。
+四，EcoVadis 提交费用
+金额：USD 1,419，单独列出，英镑合计不加这笔；
+目的/范围：EcoVadis Basic level access。
+供应商/价格依据：EcoVadis；询问人 Clare Crook。
 
-五，SafetyQube 版本控制（SafetyQube Update to add version control）
-金额：£2,500.00
-成本中心：EHS。
+五，SafetyQube 版本控制
+金额：£2,500；
 目的/范围：为风险评估增加版本控制。
-详细原因：原文 “Software changes needed to support version control on risk assessments. Agreed with LuiKai”。
-供应商/价格依据：SafetyQube；询问人 Clare Crook。需求日期 2026-10-30。
-
-六，SafetyQube 首期付款（表内写作 SafetyQube Initlal Payment）
-金额：£9,240.00
-成本中心：EHS。
-目的/范围：系统推广的首年付款。原因栏原文 “Initial annual payment on system role out”。备注 Annual payment。
+详细原因：表内注明 Agreed with LuiKai。
 供应商/价格依据：SafetyQube；询问人 Clare Crook。
-需求日期写成 10/30/2027，与其他行的 2026-10-30 不同。需核实。
 
-七，ISO 14001 外审（Annual iso14001 external audit）
-金额：£850.00
-成本中心：EHS。
-目的/范围：维持认证所需的外部审核。Description 原文 “Audit required to maintain acccreditation”，原因栏 “External audit to maintain accreditation”。
-供应商/价格依据：CQS Ltd；备注 Annual required；询问人 Clare Crook。数量栏为空，Net amount 等于单价。
-税额栏为 £170.40，£850.00 × 20% = £170.00。含税合计 £1,020.40 比 £850.00 × 1.2 多 £0.40。不含税金额按 Net amount £850.00。
+六，SafetyQube 首期付款
+金额：£9,240；
+目的/范围：系统推广的首年付款。
+详细原因：表内为年度首付款。需求日期写成 2027-10-30，需核实。
+供应商/价格依据：SafetyQube；询问人 Clare Crook。
+
+七，ISO 14001 外审
+金额：£850；
+目的/范围：维持认证所需的外部审核。
+供应商/价格依据：CQS Ltd；询问人 Clare Crook。
 
 八，DGSA 培训
-金额：£4,100.00
-成本中心：EHS。
-目的/范围：支持现场物料发运的培训。原因栏原文 “2 yearly training to support material shipping from the site”。按字面先按两年一次理解。需核实这是两年一次，还是其他含义。
-供应商/价格依据：Peter East Associates Ltd；询问人 Clare Crook。数量栏为空，Net amount 等于单价。需求日期 2026-10-30。
+金额：£4,100；
+目的/范围：支持现场物料发运的培训。
+详细原因：表内写 2 yearly training，先按两年一次理解，需核实。
+供应商/价格依据：Peter East Associates Ltd；询问人 Clare Crook。
 
-九，PAT 测试年度合同（PAT testing annual contract）
-金额：£4,176.00
-成本中心：EHS。
+九，PAT 测试年度合同
+金额：£4,176；
 目的/范围：第三方 PAT 测试的年度合同。
-供应商/价格依据：Oakleaf；备注 Annual；询问人 Clare Crook。数量栏为空，Net amount 等于单价。需求日期 2026-10-30。
+供应商/价格依据：Oakleaf；询问人 Clare Crook。
 
-十，Capex
-1. 湿度探头（Humidity Probe）
-金额：£4,507.00（单价 £4,457.00 + 运费 £50.00，已计入 Net amount）
-成本中心：Process Engineer。交付对象 Clare Crook。资产号 tbc。
+十，湿度探头（Humidity Probe，Capex）
+金额：£4,507（单价 £4,457 + 运费 £50）；
 目的/范围：更换湿度探头，以支持生产项目。
-详细原因：Previous probe is not operational，原探头已不能使用。
-供应商/价格依据：Vaisala；备注 replacement for current model；询问人 Thomas Long Casto / 13 Oct 2026。需求日期 2026-11-20。
-Type of budget 原为空。Summary 的 Capex 列按这一列筛选，空着时这 £4,507.00 进不了汇总。已将该单元格写成 Monthly，Process Engineer 的月度 Capex 现为 £4,507.00。
-
-2. 287 AHU Upgrade
-金额：£0。成本中心 Maintenance，交付对象 Steve Adams，资产号 tbc。数量、单价、Net amount 为空或 0。本次审批金额不含此项。
-
-3. HSWM for GMP lab
-金额：£0。成本中心 Process Engineer，交付对象 Clare Crook。原因栏 new capability。单价和 Net amount 为空或 0。需求日期 2026-11-20。本次审批金额不含此项。
-
-经常性费用（Recurring，仅供审核，Exclude VAT，均为 GBP，数量均为 1）：
-1. Housekeeping，Operation，£4,190.00，Discovery Park/DPML
-2. Facility Service Charge，Operation，£11,523.00，Discovery Park/DPML
-3. Purified Water Testing，Operation，£1,260.00，Nalco
-4. Dawsons API Store，Ware House，£1,300.00，Dawsons
-5. Controlled drawings update，Process Engineer，£1,000.00，RB Plant
-6. Repairs，Maintenance，£20,000.00，Various，Monthly Call Off。预算编号 SW-NCH-M-202608-Maintenance
-7. Building Fabric/Plumbing，Maintenance，£5,000.00，Shepway Commercial Services，Monthly Call Off。预算编号 SW-NCH-M-202608-Operation
-8. Building Fabric/Plumbing，Maintenance，£5,000.00，Rubix，Monthly Call Off。预算编号 SW-NCH-M-202608-Operation
-原因栏原文：“A PO has already been rasied to cover final 4 months of this year (4 x £6000)”。单元格单价是 £5,000.00，与 4 × £6,000 不一致。本次按单元格 £5,000.00 列入。需核实这笔采购订单是否已经开出，以及应按 £5,000 还是 £6,000。
-
-经常性加总：4,190 + 11,523 = 15,713；+ 1,260 = 16,973；+ 1,300 = 18,273；+ 1,000 = 19,273；+ 20,000 = 39,273；+ 5,000 = 44,273；+ 5,000 = £49,273.00。
-
-以往各月的正常维护是设备维修 £20,000 加建筑维护 £7,500，放在月度审批项。本表 Type 列为 Recurring，建筑维护分成 Shepway £5,000 和 Rubix £5,000 两行。
+详细原因：原探头已不能使用。
+供应商/价格依据：Vaisala；询问人 Thomas Long Casto。
 
 整体看：
-月度 Opex（需审批，GBP，Exclude VAT）£68,665.29
-= 32,876.73 + 7,580.00 + 7,342.56 + 2,500.00 + 9,240.00 + 850.00 + 4,100.00 + 4,176.00
-逐步相加：32,876.73 + 7,580.00 = 40,456.73；+ 7,342.56 = 47,799.29；+ 2,500.00 = 50,299.29；+ 9,240.00 = 59,539.29；+ 850.00 = 60,389.29；+ 4,100.00 = 64,489.29；+ 4,176.00 = 68,665.29。
-
-按成本中心：
-Maintenance 月度 16,153.80 + 15,722.93 + 1,000.00 + 7,580.00 = £40,456.73
-Operation 月度 £7,342.56
-EHS 月度英镑 2,500.00 + 9,240.00 + 850.00 + 4,100.00 + 4,176.00 = £20,866.00
-40,456.73 + 7,342.56 + 20,866.00 = £68,665.29
-
-Capex（需审批，GBP，Exclude VAT）£4,507.00
-
-经常性（仅供审核，GBP）£49,273.00
-按成本中心：Operation 4,190 + 11,523 + 1,260 = £16,973.00；Process Engineer £1,000.00；Ware House £1,300.00；Maintenance 20,000 + 5,000 + 5,000 = £30,000.00。16,973 + 1,000 + 1,300 + 30,000 = £49,273.00。
-
-英镑合计：68,665.29 + 4,507.00 = 73,172.29；+ 49,273.00 = £122,445.29。
-其中 K-Opex（不含 Capex）为 68,665.29 + 49,273.00 = £117,938.29。
-EcoVadis 为 USD 1,419.00，单独列出。
-
-Summary 已按上述不含税、且只汇总 GBP 的结果改好：
-Operation 月度 7,342.56，经常性 16,973，Opex 小计 24,315.56
-Process Engineer 月度 Opex 0，经常性 1,000，月度 Capex 4,507
-Ware House 经常性 1,300
-Maintenance 月度 40,456.73，经常性 30,000，Opex 小计 70,456.73
-EHS 月度 20,866.00
-月度 Opex 合计 68,665.29；经常性合计 49,273.00；Opex 合计 117,938.29；Capex 合计 4,507.00
-
-原 Summary 用的是 Total cost 含税列，并把 EcoVadis 的美元含税金额 USD 1,702.80 加进 EHS 的英镑格。原缓存为：月度 84,101.546，经常性 59,127.60，Opex 合计 143,229.146，EHS 月度 26,742.40。这些数字已替换。合计行 C12 原来的公式范围是 C4:C10，现改为 C4:C11，把 EHS 行包括进去。
-
-另外需要留意：
-1. 酸加药、设备维修、建筑维护的预算编号仍是 SW-NCH-M-202608。需核实。
-2. 多数需求日期是 2026-10-30。SafetyQube 首期付款写成 2027-10-30。湿度探头和 HSWM 是 2026-11-20。
-3. 设备维修和两行建筑维护的 Type 是 Recurring，同一行的 Type of budget 写成 Monthly。Summary 按 Type 列汇总，所以这三笔在经常性列。
-4. B287 天沟仍在寻找其他报价，表内金额是现有 Metal Workshop 报价 £7,580.00。
-5. Rubix 建筑维护的原因栏写已有采购订单覆盖今年最后 4 个月、每月 £6,000，单元格是 £5,000.00。需核实。
-6. 酸加药泵的运费 £170 没有进入 Net amount。需核实。
+按统一 Exclude VAT 口径，11月需审批月度 Opex 为 £68,665.29；Capex 为 £4,507；经常性费用为 £49,273（仅供审核）。英镑合计 £122,445.29。EcoVadis 为 USD 1,419，单独列出。
+已逐项复核：月度 16,153.80 + 15,722.93 + 1,000 + 7,580 + 7,342.56 + 2,500 + 9,240 + 850 + 4,100 + 4,176 = £68,665.29。经常性为原五项 4,190 + 11,523 + 1,260 + 1,300 + 1,000 = £19,273，加上本月从月度改列过来的 20,000 + 5,000 + 5,000 = £30,000，合计 £49,273。再加 Capex £4,507，合计 £122,445.29。
+另有几处需要注意：
+1. 正常维护从月度 Opex 改到经常性后，建筑维护由原来的一笔 £7,500 变成 £5,000 + £5,000，三项合计 £30,000，比原来的 £27,500 多 £2,500。Rubix 那笔 £5,000 的原因栏写已有采购订单覆盖今年最后 4 个月、每月 £6,000，与单元格 £5,000 不一致，需核实。
+2. 原 Summary 按含税 Total cost 汇总，并把 EcoVadis 的美元含税金额加进英镑。已改为只按 GBP 的 Net amount 汇总。湿度探头的 Type of budget 原为空，已补成 Monthly，Capex 才能计入 £4,507。287 AHU Upgrade 和 HSWM for GMP lab 金额为 0，审批合计不含这两项。
+3. 酸加药、设备维修、建筑维护的预算编号仍是 SW-NCH-M-202608，需核实。
