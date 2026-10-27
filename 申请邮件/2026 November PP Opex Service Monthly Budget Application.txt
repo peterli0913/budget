@@ -1,0 +1,99 @@
+Subject: 2026 November PP Opex Service Monthly Budget Application
+
+To: Kai Liu <liukai@asymchem.com.cn>; Guoxi Zheng <zhengguoxi@asymchem.com.cn>; Scott Anderson <scottanderson@asymchem.com>; Barry Goligher <barrygoligher@asymchem.com>; Stephen Adams <stephenadams@asymchem.com>; James Long <jameslong@asymchem.com>; Donna Medley <donnamedley@asymchem.com>
+Cc: Ting Zhang <zhangting@asymchem.com.cn>; Ning Tang <tangning@asymchem.com.cn>; Daoxing Yang <yangdaoxing@asymchem.com.cn>; Mo Huang <huangmo@asymchem.com.cn>; Yufeng Zha <zhayufeng@asymchem.com.cn>; Chang Gao12431 <gaochang12431@asymchem.com.cn>; Huiyan Yang <yanghuiyan@asymchem.com.cn>; Menglei Li0070 <limenglei0070@asymchem.com.cn>
+
+Dear VP Kai and Scott,
+Please find attached the PP Opex Service monthly budget collected for 2026 November. The same form also includes the EHS lines. I kindly request your review and approval of the November monthly budget. I also attached the 2026 November amount of submitted contracts for your review only. Thank you.
+
+   2026 November Monthly Budget Application Categories and Total Amount:
+Monthly Opex Service Budget (Exclude VAT)
+(Need approval)
+68,665.29
+Capex (Exclude VAT)
+(Need approval)
+4,507.00
+Recurring Monthly Charges
+(For reviewing)
+49,273.00
+Total
+122,445.29
+EcoVadis submission costs are USD 1,419.00 (Exclude VAT) and are not included in the GBP total above.
+
+   Opex Service and Capex Detail
+November Monthly Opex Service and Capex
+Opex Service (Exclude VAT)
+68,665.29
+Acid Dosing system pumps - CD02 heavily corroded
+Estimating
+16,153.80
+CD02 heavily corroded. Quantity 2 at unit price 8,076.90. Quote received from Liquid Measuring Instruments.
+Acid Dosing system pumps - Pipe Work and Valves
+Estimating
+15,722.93
+Pipe Work and Valves. Quote received from Corrosion Resistant Products.
+Acid Dosing system pumps - Skid replacement
+Estimating
+1,000.00
+Skid replacement. Estimate; supplier not stated on the form.
+B287 Guttering
+Estimating
+7,580.00
+Quote received from Metal Workshop. Looking for other quotes for this work.
+Protea Service Contract
+Estimating
+7,342.56
+Protea service contract and troubleshooting service. Service contract is up from renewal for replacement equipment.
+SafetyQube Update to add version control
+Estimating
+2,500.00
+Software changes needed to support version control on risk assessments.
+SafetyQube Initial Payment
+Estimating
+9,240.00
+Initial annual payment on system roll out.
+ISO 14001 external audit
+Estimating
+850.00
+External audit to maintain accreditation.
+DGSA training
+Estimating
+4,100.00
+2 yearly training to support material shipping from the site.
+PAT testing annual contract
+Estimating
+4,176.00
+Annual contract for 3rd party testing service.
+EcoVadis submission costs (USD, not included in the GBP total)
+1,419.00
+Basic level access.
+Capex (Exclude VAT)
+4,507.00
+Humidity Probe
+Estimating
+4,507.00
+Replace humidity probe to support manufacturing project. Previous probe is not operational. Unit price 4,457.00 plus freight 50.00.
+287 AHU Upgrade and HSWM for GMP lab are listed with no amount, so no further Capex amount is included.
+
+   Recurring Monthly Charges Detail
+	Housekeeping service
+4,190.00
+Facility Service Charge
+11,523.00
+Purified Water Testing
+1,260.00
+Dawsons API Store
+1,300.00
+Controlled drawings update
+1,000.00
+Repairs
+20,000.00
+Building fabric upkeep and repairs - Shepway Commercial Services
+5,000.00
+Building fabric upkeep and repairs - Rubix
+5,000.00
+Total
+49,273.00
+
+Thanks,
+Peter
